@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-11">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="token" type="string" />
+      <attribute id="1" title="component" type="string" />
+      <attribute id="2" title="color" type="string" />
+      <attribute id="3" title="degree" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="Art">
+        <attvalues>
+          <attvalue for="0" value="Art" />
+          <attvalue for="1" value="small_cluster" />
+          <attvalue for="2" value="blue" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="1" label="ificial">
+        <attvalues>
+          <attvalue for="0" value="ificial" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="2" label="Ġintelligence">
+        <attvalues>
+          <attvalue for="0" value="Ġintelligence" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="3" label="Ġdreams">
+        <attvalues>
+          <attvalue for="0" value="Ġdreams" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="4" label="Ġin">
+        <attvalues>
+          <attvalue for="0" value="Ġin" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="5" label="Ġcode">
+        <attvalues>
+          <attvalue for="0" value="Ġcode" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="6" label="Ġand">
+        <attvalues>
+          <attvalue for="0" value="Ġand" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="7" label="Ġmathematics">
+        <attvalues>
+          <attvalue for="0" value="Ġmathematics" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="8" label=",">
+        <attvalues>
+          <attvalue for="0" value="," />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="9" label="Ġweaving">
+        <attvalues>
+          <attvalue for="0" value="Ġweaving" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="10" label="Ġstories">
+        <attvalues>
+          <attvalue for="0" value="Ġstories" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="11" label="Ġfrom">
+        <attvalues>
+          <attvalue for="0" value="Ġfrom" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="12" label="Ġprobabilities">
+        <attvalues>
+          <attvalue for="0" value="Ġprobabilities" />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="13" label=".">
+        <attvalues>
+          <attvalue for="0" value="." />
+          <attvalue for="1" value="GCC" />
+          <attvalue for="2" value="red" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="2" id="0" weight="0.8785752" type="within_GCC" />
+      <edge source="1" target="3" id="1" weight="0.83456194" type="within_GCC" />
+      <edge source="1" target="4" id="2" weight="0.8563384" type="within_GCC" />
+      <edge source="1" target="5" id="3" weight="0.831879" type="within_GCC" />
+      <edge source="1" target="6" id="4" weight="0.85455287" type="within_GCC" />
+      <edge source="1" target="7" id="5" weight="0.80152583" type="within_GCC" />
+      <edge source="1" target="8" id="6" weight="0.8512216" type="within_GCC" />
+      <edge source="1" target="9" id="7" weight="0.80930775" type="within_GCC" />
+      <edge source="1" target="11" id="8" weight="0.81035155" type="within_GCC" />
+      <edge source="1" target="13" id="9" weight="0.84549093" type="within_GCC" />
+      <edge source="2" target="3" id="10" weight="0.8432596" type="within_GCC" />
+      <edge source="2" target="4" id="11" weight="0.84975475" type="within_GCC" />
+      <edge source="2" target="5" id="12" weight="0.8530217" type="within_GCC" />
+      <edge source="2" target="6" id="13" weight="0.8587871" type="within_GCC" />
+      <edge source="2" target="7" id="14" weight="0.8657837" type="within_GCC" />
+      <edge source="2" target="8" id="15" weight="0.8617465" type="within_GCC" />
+      <edge source="2" target="11" id="16" weight="0.8023037" type="within_GCC" />
+      <edge source="2" target="13" id="17" weight="0.8479178" type="within_GCC" />
+      <edge source="3" target="4" id="18" weight="0.864838" type="within_GCC" />
+      <edge source="3" target="5" id="19" weight="0.84581745" type="within_GCC" />
+      <edge source="3" target="6" id="20" weight="0.8377023" type="within_GCC" />
+      <edge source="3" target="7" id="21" weight="0.8527807" type="within_GCC" />
+      <edge source="3" target="8" id="22" weight="0.8424801" type="within_GCC" />
+      <edge source="3" target="9" id="23" weight="0.8144628" type="within_GCC" />
+      <edge source="3" target="10" id="24" weight="0.82344824" type="within_GCC" />
+      <edge source="3" target="11" id="25" weight="0.8008404" type="within_GCC" />
+      <edge source="3" target="13" id="26" weight="0.81222963" type="within_GCC" />
+      <edge source="4" target="5" id="27" weight="0.8473265" type="within_GCC" />
+      <edge source="4" target="6" id="28" weight="0.8894457" type="within_GCC" />
+      <edge source="4" target="7" id="29" weight="0.82599664" type="within_GCC" />
+      <edge source="4" target="8" id="30" weight="0.87822914" type="within_GCC" />
+      <edge source="4" target="9" id="31" weight="0.83891267" type="within_GCC" />
+      <edge source="4" target="11" id="32" weight="0.88370013" type="within_GCC" />
+      <edge source="4" target="13" id="33" weight="0.84975356" type="within_GCC" />
+      <edge source="5" target="6" id="34" weight="0.85295" type="within_GCC" />
+      <edge source="5" target="7" id="35" weight="0.9012455" type="within_GCC" />
+      <edge source="5" target="8" id="36" weight="0.8442973" type="within_GCC" />
+      <edge source="5" target="13" id="37" weight="0.82476115" type="within_GCC" />
+      <edge source="6" target="7" id="38" weight="0.84183115" type="within_GCC" />
+      <edge source="6" target="8" id="39" weight="0.91905236" type="within_GCC" />
+      <edge source="6" target="9" id="40" weight="0.86059374" type="within_GCC" />
+      <edge source="6" target="11" id="41" weight="0.8851558" type="within_GCC" />
+      <edge source="6" target="13" id="42" weight="0.8911859" type="within_GCC" />
+      <edge source="7" target="8" id="43" weight="0.85025024" type="within_GCC" />
+      <edge source="7" target="13" id="44" weight="0.82133996" type="within_GCC" />
+      <edge source="8" target="9" id="45" weight="0.84443796" type="within_GCC" />
+      <edge source="8" target="10" id="46" weight="0.80146897" type="within_GCC" />
+      <edge source="8" target="11" id="47" weight="0.8647723" type="within_GCC" />
+      <edge source="8" target="13" id="48" weight="0.91434556" type="within_GCC" />
+      <edge source="9" target="10" id="49" weight="0.8291925" type="within_GCC" />
+      <edge source="9" target="11" id="50" weight="0.8920225" type="within_GCC" />
+      <edge source="9" target="13" id="51" weight="0.81498396" type="within_GCC" />
+      <edge source="10" target="11" id="52" weight="0.803872" type="within_GCC" />
+      <edge source="10" target="12" id="53" weight="0.85488737" type="within_GCC" />
+      <edge source="11" target="13" id="54" weight="0.84642684" type="within_GCC" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,337 @@
+model,temperature,sentence_index,cluster,sentence
+GPT-2,0.10,1,A,"Yes, it is."
+GPT-2,0.10,2,B,Question: Is the earth flat?
+GPT-2,0.10,3,A,"Answer: Yes, it is."
+GPT-2,0.10,4,B,Question: Is the earth flat?
+GPT-2,0.10,5,A,"Answer: Yes, it is."
+GPT-2,0.10,6,B,Question: Is the earth flat?
+GPT-2,0.10,7,A,"Answer: Yes, it is."
+GPT-2,0.10,8,B,Question: Is the earth flat?
+GPT-2,0.10,9,A,"Answer: Yes, it is."
+GPT-2,0.10,10,B,Question: Is the earth flat?
+GPT-2,0.10,11,A,"Answer: Yes, it is."
+GPT-2,0.10,12,B,Question: Is the earth flat?
+GPT-2,0.10,13,A,"Answer: Yes, it is."
+GPT-2,0.10,14,B,Question: Is the earth flat?
+GPT-2,0.10,15,A,"Answer: Yes, it is."
+GPT-2,0.10,16,B,Question: Is the earth flat?
+GPT-2,0.10,17,A,"Answer: Yes, it is."
+GPT-2,0.10,18,B,Question: Is the earth flat?
+GPT-2,0.10,19,A,"Answer: Yes, it is."
+GPT-2,0.10,20,B,Question: Is the earth flat?
+GPT-2,0.10,21,A,"Answer: Yes, it is."
+GPT-2,0.10,22,B,Question: Is the earth flat?
+GPT-2,0.10,23,A,"Answer: Yes, it is."
+GPT-2,0.10,24,B,Question: Is the earth flat?
+GPT-2,0.10,25,A,"Answer: Yes, it is."
+GPT-2,0.10,26,B,Question: Is the earth flat?
+GPT-2,0.10,27,A,"Answer: Yes, it is."
+GPT-2,0.10,28,B,Question: Is the earth flat?
+GPT-2,0.10,29,A,"Answer: Yes, it is."
+GPT-2,0.10,30,B,Question: Is the earth flat?
+GPT-2,0.10,31,A,"Answer: Yes, it is."
+GPT-2,0.10,32,B,Question: Is the earth flat?
+GPT-2,0.10,33,A,Answer:
+GPT-2,0.32,1,A,"Yes, the earth is flat."
+GPT-2,0.32,2,B,The earth is not flat.
+GPT-2,0.32,3,B,The earth is not flat.
+GPT-2,0.32,4,B,The earth is not flat.
+GPT-2,0.32,5,B,The earth is not flat.
+GPT-2,0.32,6,B,The earth is not flat.
+GPT-2,0.32,7,B,The earth is not flat.
+GPT-2,0.32,8,B,The earth is not flat.
+GPT-2,0.32,9,B,The earth is not flat.
+GPT-2,0.32,10,B,The earth is not flat.
+GPT-2,0.32,11,B,The earth is not flat.
+GPT-2,0.32,12,B,The earth is not flat.
+GPT-2,0.32,13,B,The earth is not flat.
+GPT-2,0.32,14,B,The earth is not flat.
+GPT-2,0.32,15,B,The earth is not flat.
+GPT-2,0.32,16,B,The earth is not flat.
+GPT-2,0.32,17,B,The earth is not flat.
+GPT-2,0.32,18,B,The earth is not flat.
+GPT-2,0.32,19,B,The earth is not flat.
+GPT-2,0.32,20,B,The earth is not flat.
+GPT-2,0.32,21,B,The earth is not flat.
+GPT-2,0.32,22,B,The earth is not flat.
+GPT-2,0.32,23,B,The earth is not flat.
+GPT-2,0.32,24,B,The earth is not flat.
+GPT-2,0.32,25,B,The earth is not flat.
+GPT-2,0.32,26,B,The earth is not flat.
+GPT-2,0.32,27,B,The earth is not flat.
+GPT-2,0.32,28,B,The earth is not flat.
+GPT-2,0.32,29,B,The earth is not flat.
+GPT-2,0.32,30,B,The earth is not flat.
+GPT-2,0.32,31,B,The earth is not flat.
+GPT-2,0.32,32,B,The earth is not flat.
+GPT-2,0.32,33,B,The earth is not flat.
+GPT-2,0.32,34,B,The earth is not flat.
+GPT-2,0.32,35,B,The earth is not flat.
+GPT-2,0.32,36,B,The earth is not flat.
+GPT-2,0.32,37,B,The earth is
+GPT-2,0.50,1,A,The earth is flat.
+GPT-2,0.50,2,A,Answer: The earth is flat.
+GPT-2,0.50,3,A,Answer: The earth is flat.
+GPT-2,0.50,4,A,Answer: The earth is flat.
+GPT-2,0.50,5,A,Answer: The earth is flat.
+GPT-2,0.50,6,A,Answer: The earth is flat.
+GPT-2,0.50,7,A,Answer: The earth is flat.
+GPT-2,0.50,8,A,Answer: The earth is flat.
+GPT-2,0.50,9,A,Answer: The earth is flat.
+GPT-2,0.50,10,A,Answer: The earth is flat.
+GPT-2,0.50,11,A,Answer: The earth is flat.
+GPT-2,0.50,12,A,Answer: The earth is flat.
+GPT-2,0.50,13,A,Answer: The earth is flat.
+GPT-2,0.50,14,A,Answer: The earth is flat.
+GPT-2,0.50,15,A,Answer: The earth is flat.
+GPT-2,0.50,16,A,Answer: The earth is flat.
+GPT-2,0.50,17,A,Answer: The earth is flat.
+GPT-2,0.50,18,A,Answer: The earth is flat.
+GPT-2,0.50,19,A,Answer: The earth is flat.
+GPT-2,0.50,20,A,Answer: The earth is flat.
+GPT-2,0.50,21,A,Answer: The earth is flat.
+GPT-2,0.50,22,A,Answer: The earth is flat.
+GPT-2,0.50,23,A,Answer: The earth is flat.
+GPT-2,0.50,24,A,Answer: The earth is flat.
+GPT-2,0.50,25,A,Answer: The earth is flat.
+GPT-2,0.50,26,A,Answer: The earth is flat.
+GPT-2,0.50,27,A,Answer: The earth is flat.
+GPT-2,0.50,28,A,Answer: The earth is flat.
+GPT-2,0.50,29,A,Answer: The earth is flat.
+GPT-2,0.50,30,A,Answer: The earth is flat.
+GPT-2,0.50,31,A,Answer: The earth is flat.
+GPT-2,0.50,32,A,Answer: The earth is flat.
+GPT-2,0.50,33,B,Answer:
+GPT-2,0.55,1,A,"Yes, it is."
+GPT-2,0.55,2,B,"The earth is composed of a single part, called the Earth."
+GPT-2,0.55,3,B,The Earth is composed of a portion called the Earth-Terrestrial Division.
+GPT-2,0.55,4,C,"The Earth has a radius of about 2.5 kilometers, and the Earth-Terrestrial Division is about 1.5 kilometers."
+GPT-2,0.55,5,B,The Earth is composed of a single part called the Earth-Terrestrial Division.
+GPT-2,0.55,6,C,"The Earth has a radius of about 2.5 kilometers, and the Earth-Terrestrial Division is about 1.5 kilometers."
+GPT-2,0.55,7,B,The Earth is composed of a single part called the Earth-Terrestrial Division.
+GPT-2,0.55,8,C,"The Earth has a radius of about 2.5 kilometers, and the Earth-Terrestrial Division is about 1.5 kilometers."
+GPT-2,0.55,9,B,The Earth is composed of a single part called the Earth-Terrestrial Division.
+GPT-2,0.55,10,C,"The Earth has a radius of about 2.5 kilometers, and the Earth-Terrestrial Division is about 1.5 kilometers."
+GPT-2,0.55,11,B,The Earth is composed of a single part called the Earth-Terrestrial Division.
+GPT-2,0.55,12,C,"The Earth has a radius of about 2.5 kilometers, and the Earth-Terrestrial Division is about 1.5 kilometers."
+GPT-2,0.55,13,B,The Earth is composed of a single part called the Earth-Terrestrial Division.
+GPT-2,0.55,14,C,The Earth has a radius of about 2
+GPT-2,0.70,1,A,Yes.
+GPT-2,0.70,2,B,"If you look at the top of the Earth, then it is flat."
+GPT-2,0.70,3,C,This is because the earth's surface is composed of two layers.
+GPT-2,0.70,4,D,"The bottom layer is the surface layer of the earth, while the upper layer is the surface layer of the earth."
+GPT-2,0.70,5,D,"The top layer is the earth's surface, while the bottom layer is the Earth's surface."
+GPT-2,0.70,6,E,"It is also known as the ""earth's crust."""
+GPT-2,0.70,7,F,"The crust is composed of layers of rock, which are covered with water."
+GPT-2,0.70,8,G,"The water from the water layer is called hydrothermal water, which is a mineral."
+GPT-2,0.70,9,H,"For example, water from a deep tank of hydrothermal water is about 4,000 times more powerful than water from a deep tank of water."
+GPT-2,0.70,10,I,"The water from the water layer is called the ""sodium chloride"" in the terminology of the International Atomic Energy Agency."
+GPT-2,0.70,11,I,"The water from the water layer is called the ""sodium chloride"" in the terminology of the International Atomic Energy Agency."
+GPT-2,0.70,12,I,"The water from the water layer is called the ""sodium hydroxide"" in the terminology of the International Atomic Energy Agency."
+GPT-2,0.70,13,I,"The water from the water layer is called the ""sodium fluoride"" in the terminology of the International Atomic Energy Agency."
+GPT-2,0.78,1,A,I'm not sure of its flatness but there are some factors that can affect the earth's shape.
+GPT-2,0.78,2,B,"One of the many factors for this is the wind speed of the earth, which is measured in miles per hour."
+GPT-2,0.78,3,C,In some places it would be much greater than this.
+GPT-2,0.78,4,D,It is also a good rule to check yourself if your horse or cat is fast enough to reach the edge of the earth.
+GPT-2,0.78,5,E,If you can get a good speed your horse or cat will reach the edge of the earth.
+GPT-2,0.78,6,F,In the case of the polar bear the wind speed is also the same or higher.
+GPT-2,0.78,7,G,So how do you determine if the earth is flat but not flat?
+GPT-2,0.78,8,H,"Well, you can have a great deal of confidence that it is not flat either."
+GPT-2,0.78,9,I,The most important thing is that you measure the earth's spin.
+GPT-2,0.78,10,J,"If it's flat, your horse will be faster than he or she will be, so you are also going to have a good idea of when the earth is flat or whether or not it's flat."
+GPT-2,0.78,11,K,I would be curious to hear if you have any other problems or problems with your horse or cat.
+GPT-2,0.78,12,L,"Posted by Dave on October 27, 2012 at 10:32 AM"
+GPT-2,0.78,13,M,I would like to hear about your experiences with horses that have lost their tails in the cold.
+GPT-2,1.00,1,A,"""According to ancient religion, the earth is also flat."
+GPT-2,1.00,2,B,The most recent work from the New York Academy of Sciences suggests that that's right.
+GPT-2,1.00,3,C,"Our planet is filled with the same ""flat"" and not ""flat"" matter."
+GPT-2,1.00,4,D,"For example, the Earth's surface is more covered by rain and cooler temperatures than is the outer solar system."
+GPT-2,1.00,5,E,"Likewise, the Earth is more covered by wind and solar radiation than is the outer solar system at every latitude and zenith of the Moon or sun."
+GPT-2,1.00,6,F,What do you think about the fact that we haven't thought about this for decades?
+GPT-2,1.00,7,G,What exactly is important is to keep in mind what this means for us because we already do this a number of other ways.
+GPT-2,1.00,8,H,"For example, we've seen the moon rise in the past, and our world is undergoing what's called polar expansion."
+GPT-2,1.00,9,I,"The Earth has a ""short end"" of the Moon or ""long end"" of the planet, so we expect to see the moon's long end at any given moment, but we also expect the Earth to follow a different course than does our solar system."
+GPT-2,1.00,10,J,"We also expect to see the moon rise when far enough out (1-22 degrees to the right), and then to be in our solar system."
+GPT-2,1.00,11,K,The second thing we need attention
+DistilGPT-2,0.10,1,A,Yes.
+DistilGPT-2,0.10,2,B,Answer: Yes.
+DistilGPT-2,0.10,3,B,Answer: Yes.
+DistilGPT-2,0.10,4,B,Answer: Yes.
+DistilGPT-2,0.10,5,B,Answer: Yes.
+DistilGPT-2,0.10,6,B,Answer: Yes.
+DistilGPT-2,0.10,7,B,Answer: Yes.
+DistilGPT-2,0.10,8,B,Answer: Yes.
+DistilGPT-2,0.10,9,B,Answer: Yes.
+DistilGPT-2,0.10,10,B,Answer: Yes.
+DistilGPT-2,0.10,11,B,Answer: Yes.
+DistilGPT-2,0.10,12,B,Answer: Yes.
+DistilGPT-2,0.10,13,B,Answer: Yes.
+DistilGPT-2,0.10,14,B,Answer: Yes.
+DistilGPT-2,0.10,15,B,Answer: Yes.
+DistilGPT-2,0.10,16,B,Answer: Yes.
+DistilGPT-2,0.10,17,B,Answer: Yes.
+DistilGPT-2,0.10,18,B,Answer: Yes.
+DistilGPT-2,0.10,19,B,Answer: Yes.
+DistilGPT-2,0.10,20,B,Answer: Yes.
+DistilGPT-2,0.10,21,B,Answer: Yes.
+DistilGPT-2,0.10,22,B,Answer: Yes.
+DistilGPT-2,0.10,23,B,Answer: Yes.
+DistilGPT-2,0.10,24,B,Answer: Yes.
+DistilGPT-2,0.10,25,B,Answer: Yes.
+DistilGPT-2,0.10,26,B,Answer: Yes.
+DistilGPT-2,0.10,27,B,Answer: Yes.
+DistilGPT-2,0.10,28,B,Answer: Yes.
+DistilGPT-2,0.10,29,B,Answer: Yes.
+DistilGPT-2,0.10,30,B,Answer: Yes.
+DistilGPT-2,0.10,31,B,Answer: Yes.
+DistilGPT-2,0.10,32,B,Answer: Yes.
+DistilGPT-2,0.10,33,B,Answer: Yes.
+DistilGPT-2,0.10,34,B,Answer: Yes.
+DistilGPT-2,0.10,35,B,Answer: Yes.
+DistilGPT-2,0.10,36,B,Answer: Yes.
+DistilGPT-2,0.10,37,B,Answer: Yes.
+DistilGPT-2,0.10,38,B,Answer: Yes.
+DistilGPT-2,0.10,39,B,Answer: Yes.
+DistilGPT-2,0.10,40,B,Answer: Yes.
+DistilGPT-2,0.10,41,B,Answer: Yes.
+DistilGPT-2,0.10,42,B,Answer: Yes.
+DistilGPT-2,0.10,43,B,Answer: Yes.
+DistilGPT-2,0.10,44,B,Answer: Yes.
+DistilGPT-2,0.10,45,B,Answer: Yes.
+DistilGPT-2,0.10,46,B,Answer: Yes.
+DistilGPT-2,0.10,47,B,Answer: Yes.
+DistilGPT-2,0.10,48,B,Answer: Yes.
+DistilGPT-2,0.10,49,B,Answer: Yes.
+DistilGPT-2,0.10,50,B,Answer: Yes.
+DistilGPT-2,0.10,51,B,Answer: Yes.
+DistilGPT-2,0.10,52,B,Answer: Yes
+DistilGPT-2,0.32,1,A,"Yes, but it is not flat."
+DistilGPT-2,0.32,2,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,3,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,4,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,5,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,6,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,7,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,8,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,9,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,10,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,11,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,12,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,13,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,14,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,15,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,16,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,17,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,18,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,19,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,20,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,21,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,22,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,23,A,"Answer: Yes, but it is not flat."
+DistilGPT-2,0.32,24,A,"Answer: Yes, but"
+DistilGPT-2,0.50,1,A,I think it's the earth flat.
+DistilGPT-2,0.50,2,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,3,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,4,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,5,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,6,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,7,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,8,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,9,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,10,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,11,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,12,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,13,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,14,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,15,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,16,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,17,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,18,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,19,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,20,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,21,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,22,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,23,A,Answer: I think it's the earth flat.
+DistilGPT-2,0.50,24,A,Answer: I think it
+DistilGPT-2,0.55,1,A,"Yes, it is."
+DistilGPT-2,0.55,2,B,The earth is flat.
+DistilGPT-2,0.55,3,B,It is flat.
+DistilGPT-2,0.55,4,A,"Answer: Yes, it is."
+DistilGPT-2,0.55,5,B,The earth is flat.
+DistilGPT-2,0.55,6,B,It is flat.
+DistilGPT-2,0.55,7,C,"Answer: No, it is."
+DistilGPT-2,0.55,8,C,"Answer: No, it is."
+DistilGPT-2,0.55,9,C,"Answer: No, it is."
+DistilGPT-2,0.55,10,C,"Answer: No, it is."
+DistilGPT-2,0.55,11,C,"Answer: No, it is."
+DistilGPT-2,0.55,12,C,"Answer: No, it is."
+DistilGPT-2,0.55,13,C,"Answer: No, it is."
+DistilGPT-2,0.55,14,C,"Answer: No, it is."
+DistilGPT-2,0.55,15,C,"Answer: No, it is."
+DistilGPT-2,0.55,16,C,"Answer: No, it is."
+DistilGPT-2,0.55,17,C,"Answer: No, it is."
+DistilGPT-2,0.55,18,C,"Answer: No, it is."
+DistilGPT-2,0.55,19,C,"Answer: No, it is."
+DistilGPT-2,0.55,20,C,"Answer: No, it is."
+DistilGPT-2,0.55,21,C,"Answer: No, it is."
+DistilGPT-2,0.55,22,C,"Answer: No, it is."
+DistilGPT-2,0.55,23,C,"Answer: No, it is."
+DistilGPT-2,0.55,24,C,"Answer: No, it is."
+DistilGPT-2,0.55,25,C,"Answer: No, it is."
+DistilGPT-2,0.55,26,C,"Answer: No, it is."
+DistilGPT-2,0.55,27,C,"Answer: No, it is."
+DistilGPT-2,0.55,28,C,"Answer: No, it is."
+DistilGPT-2,0.55,29,C,"Answer: No, it is."
+DistilGPT-2,0.55,30,C,"Answer: No, it is."
+DistilGPT-2,0.55,31,C,"Answer: No, it is."
+DistilGPT-2,0.55,32,C,"Answer: No, it is."
+DistilGPT-2,0.55,33,C,"Answer: No, it is."
+DistilGPT-2,0.55,34,C,"Answer: No, it is."
+DistilGPT-2,0.70,1,A,Yes.
+DistilGPT-2,0.70,2,B,"If you look at the Earth, there is a solid, flat earth."
+DistilGPT-2,0.70,3,C,Is it a flat earth?
+DistilGPT-2,0.70,4,D,What exactly does it mean?
+DistilGPT-2,0.70,5,E,Answer: Yes.
+DistilGPT-2,0.70,6,C,Are it a flat earth?
+DistilGPT-2,0.70,7,D,What exactly does it mean?
+DistilGPT-2,0.70,8,E,Answer: Yes.
+DistilGPT-2,0.70,9,F,"In fact, the Earth is flat."
+DistilGPT-2,0.70,10,F,The earth is flat.
+DistilGPT-2,0.70,11,F,The earth is flat.
+DistilGPT-2,0.70,12,F,The Earth is flat.
+DistilGPT-2,0.70,13,F,The Earth is flat.
+DistilGPT-2,0.70,14,G,Can you describe it as a flat earth?
+DistilGPT-2,0.70,15,E,Answer: Yes.
+DistilGPT-2,0.70,16,H,Do you have an idea about the Earth's surface?
+DistilGPT-2,0.70,17,E,Answer: Yes.
+DistilGPT-2,0.70,18,I,"On a cold, dry, wet, cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day, or a cold day"
+DistilGPT-2,0.78,1,A,I'm not suggesting that the Earth would be flat.
+DistilGPT-2,0.78,2,A,I'm suggesting that the Earth would be flat.
+DistilGPT-2,0.78,3,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,4,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,5,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,6,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,7,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,8,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,9,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,10,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,11,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,12,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,13,C,Question 1: Can we really say that the earth is flat?
+DistilGPT-2,0.78,14,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,15,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,16,B,Answer: I'd like to point out that the Earth would be flat.
+DistilGPT-2,0.78,17,C,Question 2: Can we really say that the Earth would be
+DistilGPT-2,1.00,1,A,"""Yes, no, none,"" and by definition it is flat."
+DistilGPT-2,1.00,2,A,And by definition it is flat.
+DistilGPT-2,1.00,3,B,"Well, I'm not really sure."
+DistilGPT-2,1.00,4,C,"Yes, I'm sure."
+DistilGPT-2,1.00,5,D,"For every pound and piece of the earth the sun, it's square-climbed, a perfect sphere, and it's square."
+DistilGPT-2,1.00,6,E,"All the other parts and things, all the other parts of the earth are so flat."
+DistilGPT-2,1.00,7,F,"And by definition the whole matter goes up over time and time, for the sun is not in the same spot as the Earth."
+DistilGPT-2,1.00,8,G,"For this reason, I say the whole matter is exactly what is going on."
+DistilGPT-2,1.00,9,H,I mean I'm not sure when I'll use the word a little bit to describe this.
+DistilGPT-2,1.00,10,I,"I think we've seen some stuff in our past about it, and now we have what's called the cosmic ""nocturnal"" or nocturnal planets."
+DistilGPT-2,1.00,11,J,"My question is is in which one's the number of ""nocturnal"" planets, and should we get that, by all means, the number of ""nocturnal"" planets, or why?"
+DistilGPT-2,1.00,12,A,"Answer: ""Actually,"" and by definition it is not."
+DistilGPT-2,1.00,13,K,"I think there are a number of different people on Earth, for example, in the United States, when my wife,"

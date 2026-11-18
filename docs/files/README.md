@@ -1,3 +1,3 @@
 # Research report
 
-[Temperature and the Shape of Language](Research_Report.pdf) brings together the GW Network Data Science experiments, figures and source notes in 32 pages. The opening two pages give a short route through the findings.
+[Orbitglass · Inside Language Model Loops](Research_Report.pdf) presents the findings of our three-person Network Data Science group at George Washington University. The first two pages introduce the question and the three-minute demo.
